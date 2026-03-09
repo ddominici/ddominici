@@ -9,15 +9,15 @@
 
 <p align="center">
 <h2>I'm a Consultant, Trainer, Speaker and Author</h2>
-I'm specializing in SQL Server since version 6.5, mostly for the design, implementation, monitoring, and performance tuning of SQL Server-based solutions, both on-premise and in the cloud (Azure/AWS). 
+I have specialized in SQL Server since version 6.5, focusing primarily on the design, implementation, monitoring, and performance tuning of SQL Server-based solutions, both on-premises and in the cloud (Azure/AWS).
 <br/>
-I'm also providing consulting services on PostgreSQL performance tuning, high availability and monitoring. 
+In addition to my SQL Server expertise, I provide consulting services for PostgreSQL performance tuning, high availability, and monitoring. 
 <br/>
-I'm still a Microsoft Certified Trainer after 26 years: I lost the count of people I taught SQL Server and related technologies.
+I have been a Microsoft Certified Trainer for 26 years; I’ve lost count of the many professionals I have trained in SQL Server and related technologies.
 <br/>
-I'm also a 6-times Data Platform MVP (2014-2020) - now MVP Alumni, an active member of UGISS (the Italian SQL Server User Group), and the proud father of SQL Start! a community conference held in Ancona, Italy each year since 2011.
+I am a six-time Data Platform MVP (2014–2020) — now an MVP Alumni - and an active member of UGISS (the Italian SQL Server User Group). I am also the proud founder of SQL Start!, a community conference held annually in Ancona, Italy, since 2011.
 <br/>
-One of my first engagement when I joined SolidQ back in 2012 was writing some of the chapters of the Microsoft SQL Server 2012 (and later 2014) Upgrade Guide and a few year ago I co-authored the book "Azure Data Solutions: an Introduction" published by Microsoft Press.  
+When I joined SolidQ in 2012, one of my first engagements was authoring chapters for the Microsoft SQL Server 2012 (and later 2014) Upgrade Guides. More recently, I co-authored the book Azure Data Solutions: An Introduction, published by Microsoft Press.
 </p>
 
 <p>
